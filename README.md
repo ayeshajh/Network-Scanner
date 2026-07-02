@@ -119,5 +119,3 @@ This project is intended **only for educational purposes and authorized network 
 ## Author
 
 **Ayesha Hussain**
-
-GitHub: *Add your GitHub profile link here*
